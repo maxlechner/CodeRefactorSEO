@@ -40,6 +40,8 @@ THEN I find a concise, descriptive title
 
 The original code is functioning and works appropriately. However, the code lacks comments, does not align with current conventions for accessibility, and requires rework with indentation.
 
-Below is a screenshot of the original code.
+Below is a screenshot of the original code:
+![Image of Original Code](./assets/images/original_code.PNG)
 
-![Image of Original Code](./assets/original_code.PNG)
+Below is the first round of revisions which target sectioning and other CSS styles:
+![Image of Original Code](./assets/images/revision1_code.PNG)
