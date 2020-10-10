@@ -2,8 +2,9 @@
 
 ## Desciption
 The below description outlines the approach taken to refactor the code base of a website that has not been developed according to current standards for accesibility and search engine optimization.
+[Reference for accessibility standards](https://www.w3.org/TR/2018/REC-WCAG21-20180605/)
 
-The revisions align with the user-story and acceptance criteria.
+The revisions align with the user-story and acceptance-criteria.
 
 ## Table of Contents
 
