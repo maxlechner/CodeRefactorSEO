@@ -42,4 +42,4 @@ The original code is functioning and works appropriately. However, the code lack
 
 Below is a screenshot of the original code.
 
-![Image of Original Code](./CodeRefactor_SEO/original_code.png)
+![Image of Original Code](original_code.PNG)
