@@ -8,8 +8,8 @@ The revisions align with the user-story and acceptance criteria.
 ## Table of Contents
 
 * [User Story](#User-story)
-* [Acceptance Criteria](#Acceptance)
-* [Sketch Up](#Sketch)
+* [Acceptance Criteria](#Acceptance-Criteria)
+* [Sketch Up](#Sketch-Up)
 
 ## User-story
 
@@ -20,7 +20,7 @@ SO THAT our own site is optimized for search engines
 ```
 
 
-## Acceptance Criteria
+## Acceptance-Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -36,7 +36,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Sketch Up
+## Sketch-Up
 
 The original code is functioning and works appropriately. However, the code lacks comments, does not align with current conventions for accessibility, and requires rework with indentation.
 
