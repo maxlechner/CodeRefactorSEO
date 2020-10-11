@@ -78,6 +78,7 @@ p {
     font-size: 16px;
 }
 
+/* float styles for aligning main image blocks */
 .float-left {
     float: left;
     margin-right: var(--side-margin-std);
@@ -88,8 +89,7 @@ p {
     margin-left: var(--side-margin-std);
 }
 
-/* Parent / child class element styles */
-
+/* Hero center image foramtting */
 .hero {
     height: 800px;
     width: 100%;
@@ -131,11 +131,6 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-
-
-
-
 
 /* image formatting */
 
