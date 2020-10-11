@@ -50,4 +50,6 @@ The next step was to begin refactoring the CSS to be more useable:
 ![Image of CSS variables](./assets/images/css_variables.PNG)
 ![Image of CSS Organization](./assets/images/css_organization.PNG)
 
+## Conclusion
 
+The final step in the process was to clean the remaining code to be easier to read and add any missed comments.
