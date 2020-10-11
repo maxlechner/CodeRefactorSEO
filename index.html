@@ -8,10 +8,10 @@
 </head>
 
 <body>
-    <section role="navigation">
-        <div class="header">
+    <header>
+        <div class="header" role="banner">
             <h1>Hori<span class="seo">seo</span>n</h1>
-            <div>
+            <div role="navigation">
                 <ul>
                     <!-- top level navigation links to route into the website body text -->
                     <li>
@@ -28,16 +28,19 @@
                 </ul>
             </div>
         </div>
-    </section>
+    </header>
 
+    <!-- main wesbite body section -->
+    
+    
     <!-- hero class contains background image -->
-    <section>
-        <div class="hero" aria-details="iamge with 3 individuals in a work setting"></div>
+    <section role="presentation">
+        <div class="hero" aria-details="Image of 4 individuals in a work setting surrounding a table and focusing on a single item that the leadder is contemplating"></div>
     </section>
 
-    <!-- main website content aligned to the left of the web page -->
+    <!-- main website content aligned to the left of the web page with a main ARIA tag -->
     <section>
-        <div class="content">
+        <div class="content" role="main">
             <div id="search-engine-optimization" class="search-engine-optimization">
                 <img src="./assets/images/search-engine-optimization.jpg" class="float-left" aria-details="image related to search-engine-optimization"/>
                 <h2>Search Engine Optimization</h2>
@@ -62,9 +65,8 @@
                 </p>
             </div>
         </div>
-
-        <!-- Right side bar describing Horiseon's benefits to their customers. -->
-        <div class="benefits">
+        <!-- Right side bar describing Horiseon's benefits to their customers using a complementary ARIA tag. -->
+        <div class="benefits" role="complementary">
             <div class="benefit-lead">
                 <h3>Lead Generation</h3>
                 <img src="./assets/images/lead-generation.png" />
@@ -72,6 +74,7 @@
                     Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
                 </p>
             </div>
+
             <div class="benefit-brand">
                 <h3>Brand Awareness</h3>
                 <img src="./assets/images/brand-awareness.png" />
@@ -79,6 +82,7 @@
                     Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
                 </p>
             </div>
+
             <div class="benefit-cost">
                 <h3>Cost Management</h3>
                 <img src="./assets/images/cost-management.png"></img>
@@ -86,18 +90,19 @@
                     As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
                 </p>
             </div>
-        </div>
+        </div> 
     </section>
+    
 
     <!-- Footer section for owner identification -->
-    <section>
+    <footer>
         <div class="footer">
             <h2>Made with ❤️️ by Horiseon</h2>
             <p>
                 &copy; 2019 Horiseon Social Solution Services, Inc.
             </p>
         </div>
-    </section>
+    </footer>
 </body>
 
 </html>
