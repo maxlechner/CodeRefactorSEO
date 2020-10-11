@@ -43,9 +43,15 @@ The original code is functioning and works appropriately. However, the code lack
 Below is a screenshot of the original code:
 ![Image of Original Code](./assets/images/original_code.PNG)
 
+Below is a screenshot of updated code with several ARIA related web elements:
+![Image of Revised Code](./assets/images/code_revision.PNG)
+
+
 Below is the first round of revisions which target sectioning and other CSS styles:
-![Image of Revised Code](./assets/images/revision1_code.PNG)
+![Image of Revised CSS](./assets/images/revision1_code.PNG)
 
 The next step was to begin refactoring the CSS to be more useable:
 ![Image of CSS variables](./assets/images/css_variables.png)
 ![Image of CSS Organization](./assets/images/css_organization.png)
+
+
